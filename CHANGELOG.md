@@ -1,3 +1,12 @@
+## [4.0.0-alpha.3](https://github.com/godot-escoria/escoria-ui-simplemouse/compare/v0.0.0...v4.0.0-alpha.3) (2021-10-19)
+
+
+### Bug Fixes
+
+* Fixed Assetlib id ([6c8d944](https://github.com/godot-escoria/escoria-ui-simplemouse/commit/6c8d9440220e1e6f7ce17f79157ad5e21a604a13))
+
+
+
 ## [4.0.0-alpha.2](https://github.com/godot-escoria/escoria-ui-simplemouse/compare/v0.0.0...v4.0.0-alpha.2) (2021-10-17)
 
 
